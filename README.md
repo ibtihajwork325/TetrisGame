@@ -54,9 +54,11 @@ Board class (includes all functionalities)
 ---
 
 
-## ?? Screenshots
+##  Screenshots
 
 ![Gameplay 1](screenshots/Screenshot%202026-04-26%20224614.png)
 ![Gameplay 2](screenshots/Screenshot%202026-04-26%20224625.png)
 ![Gameplay 3](screenshots/Screenshot%202026-04-26%20224628.png)
 
+---
+*Created by [ibtihajwork325](https://github.com/ibtihajwork325)*
